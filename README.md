@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Avhadrajesh
-- 👀 I’m interested in Developer
-- 🌱 I’m currently learning Devops, Go programming
+- 👀 I’m Working as Devops engineer
+- 🌱 I’m currently Building Second-Brain
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me rajeshavhd@gmail.com
+- 📫 How to reach me ......comment your mail
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
